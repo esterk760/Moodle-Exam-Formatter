@@ -1,0 +1,14 @@
+.venv/
+venv/
+**pycache**/
+*.py[cod]
+build/
+dist/
+*.spec
+.env
+*.docx
+*.xml
+*.zip
+*.exe
+Moodle_Output/
+*_Moodle_Output/
