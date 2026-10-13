@@ -24,7 +24,7 @@ A Python desktop application that converts Word (`.docx`) documents containing m
 ## Project Structure
 
 ```text
-MoodleQuestionBankBuilder/
+MoodleExamFormatter/
 ├── app.py              # Desktop application interface
 ├── examformatter.py    # Document parsing and Moodle XML generation
 ├── requirements.txt    # Python dependencies
@@ -40,7 +40,7 @@ Additional files and folders may be created during conversion, including generat
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/Moodle-Exam-Formatter.git
-cd Moodle-Exam-Formatter
+cd MoodleExamFormatter
 ```
 
 Replace `YOUR-USERNAME` with the appropriate GitHub username.
