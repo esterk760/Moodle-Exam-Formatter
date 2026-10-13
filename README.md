@@ -39,8 +39,8 @@ Additional files and folders may be created during conversion, including generat
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/MoodleQuestionBankBuilder.git
-cd MoodleQuestionBankBuilder
+git clone https://github.com/YOUR-USERNAME/Moodle-Exam-Formatter.git
+cd Moodle-Exam-Formatter
 ```
 
 Replace `YOUR-USERNAME` with the appropriate GitHub username.
